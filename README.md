@@ -9,3 +9,14 @@ Microcontroller: At its core is the Atmel (Microchip) ATmega128RFA1 system-on-ch
 https://github.com/fdufnews/SMART-Response-XE-schematics/blob/master/Smart_Response_XE.pdf
 
 https://github.com/chmod775/SMARTResponseTerminal
+
+Arduino library for hardware:
+
+https://github.com/bitbank2/SmartResponseXE
+
+Steps for installing BASIC
+
+https://www.instructables.com/SMART-Response-XE-Tiny-Basic-Port/
+
+https://github.com/Subsystems-us/SMART-Response-XE-Tiny-Basic-Port
+
